@@ -1,0 +1,5 @@
+myvirtualenv
+mylist/__pycache__
+todolists/__pycache__
+todolists/migrations/__pycache__
+__pycache__
